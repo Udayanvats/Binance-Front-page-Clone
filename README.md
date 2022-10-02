@@ -1,4 +1,4 @@
-# gdsc
+# CSI
 
 A new Flutter project.
 
